@@ -1,0 +1,1 @@
+export type Difficulty = '简单' | '适中' | '困难';
